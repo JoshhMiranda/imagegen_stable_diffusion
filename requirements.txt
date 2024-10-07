@@ -1,0 +1,7 @@
+streamlit
+torch
+diffusers
+transformers
+Pillow
+requests
+auth-token
